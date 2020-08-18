@@ -1,0 +1,111 @@
+
+nav.navbar.navbar.navbar-fixed-top {
+  border-bottom: solid  silver 2px;
+  background-color: white;
+}
+
+ul.nav.navbar-nav>li>a:hover {
+  background-color: black;
+  color: white;
+}
+
+button.navbar-toggle.collapsed {
+  background-color: beige;
+}
+
+span.icon-bar {
+  background-color: black;
+}
+
+div.bartop {
+  background-color: black;
+  height: 30px;
+  color: white;
+  text-align: right;
+  padding-top: 3px;
+}
+ul.nav.navbar-nav {
+  font-size:10px;
+  float: right;
+}
+
+ul.nav.navbar-nav>li>a {
+  color: black;
+
+}
+footer.footer {
+  position: relative;
+  bottom: 0px;
+  background-color: black;
+  width: 100%;
+  text-align: center;
+}
+h2.text-uppercase {
+  margin-bottom: 37px;
+  color: white;
+  margin-top: 41px;
+}
+.divItemNewsletter {
+  color: white;
+  margin-left: 0px;
+  display: inline-block;
+}
+.divItemNewsletter  input{
+
+  width: 270px;
+  height: 40px;
+  color:black ;
+  background-color: #fff;
+  border:1px solid black;
+}
+a.navbar-brand>img {
+  height: 29px;
+}
+.redessociales {
+  margin-right: 80px;
+}
+.redessociales img {
+  height: 24px !important;
+  display: inline-block;
+  margin-right: 19px;
+}
+div.main {
+  margin-bottom: 70px;
+}
+.imgInicioWeb {
+  width: 66%;
+  margin: auto;
+}
+.redessociales_negras {
+  text-align: center;
+}
+
+h1.regular {
+  text-align: center;
+  font-style: oblique;
+}
+.redessociales_negras {
+  margin: 21px 0px 21px 0px;
+}
+.modal .modal-body{
+  background-color:black
+}
+
+input#btnRegistrarse {
+  height: 40px;
+}
+
+.cursoItem:hover {
+  cursor: pointer;
+  background-color: silver;
+}
+
+.btnPanelListAdd {
+  display: inline-block;
+  border: 1px solid #aaaaaa;
+  padding: 10px;
+  position: absolute;
+  top: -16px;
+  right: 17px;
+  cursor: pointer;
+}
